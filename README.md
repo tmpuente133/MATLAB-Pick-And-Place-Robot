@@ -71,7 +71,7 @@ The video below shows the robot executing the full task:
 
 ## Tools & Concepts Used
 - MATLAB Robotics System Toolbox  
-- RigidBodyTree modeling  
+- Rigid Body Tree modeling  
 - Inverse kinematics  
 - Collision checking  
 - RRT motion planning  
